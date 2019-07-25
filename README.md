@@ -1,14 +1,21 @@
 # GUI_morpion_ultime
 Simulation de jeux d'arcade !
 
- "Les roses sont rose,"
-
-"	les violettes sont violettes,"
-
-"et ton sang gicle quand je te fouette."
-
+ Ouvrir le views_folder - game
+ (je ne suis pas parvenu à faire les liens avec le -path... "
  
- ✿♥✿░ ░ ░B░I░E░N░V░E░N░U░E░ ░ ░✿♥✿
-✿♥✿░ ░ ░ ░ ░ ░D░A░N░S░ ░ ░ ░ ░ ░✿♥✿
-✿♥✿░ ░T░H░E░ ░U░L░T░I░M░A░T░E░ ░✿♥✿
- ✿♥✿░ ░ ░ ░ ░G░A░M░E░ ░ ░ ░ ░ ░✿♥✿
+ 3 grandes CLASSES - PLAYER / BOARD / GAME
+ 
+ Tout se pilote par la classe GAME
+ 
+Initialize
+Start_game
+Get_names
+Turn_of_game
+
+initialisation par Game = Game.new
+game.start_game
+
+(inspired by https://repl.it/@Tronerta/Tic-Tac-Toe) ;)
+
+ENJOY THE GAME !
